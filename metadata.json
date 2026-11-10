@@ -1,0 +1,6 @@
+{
+  "name": "NEXTR Lumière Bistro — Luxury Restaurant Demo",
+  "description": "A luxury fine-dining restaurant website demonstration developed by NEXTR Digital Solutions & Services, featuring French-Mediterranean culinary menus, cellar pairings, and simulated table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
